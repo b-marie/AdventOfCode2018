@@ -1,5 +1,1 @@
-﻿Imports Microsoft.VisualBasic
-
-Public Class Class1
-
-End Class
+﻿# Welcome to my Advent of Code 2018 code! 

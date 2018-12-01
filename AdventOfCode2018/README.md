@@ -1,1 +1,0 @@
-﻿Welcome to my Advent of Code code!
